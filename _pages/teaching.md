@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-### Yale University (Teaching Assistant)
+### Yale University
 
 <style>
 table th:first-of-type {
@@ -25,7 +25,7 @@ table th:nth-of-type(4) {
 </style>
 
 | Course   | Level  | Instructor | Years  |
-| -------- | ------ | ---------- | ------ |
+| ---------- | ------ | ---------- | ------ |
 | Introduction to Microeconomics   | Undergraduate   | Cormac O'Dea | Spring 2020
 
 
@@ -47,6 +47,6 @@ table th:nth-of-type(4) {
 }
 </style>
 
-| Course | Level |  Years |
-| -------- | ------ | ----- | 
-| Structural Modeling in Labor and IO  | PhD and Graduate  | 2018-2021
+| Course   | Level  | Instructor | Years  |
+| ---------- | ------ | ---------- | ------ |
+| Structural Modeling in Labor and IO  | PhD and Graduate | Peter Haan | 2018-2021
