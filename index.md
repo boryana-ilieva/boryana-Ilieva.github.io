@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-My name is Boryana Ilieva and I'm a PhD candidate in Economics affiliated to the German Institute for Economics Research (DIW Berlin) and the Humboldt University in Berlin. 
+My name is Boryana Ilieva and I am a PhD candidate in Economics affiliated to the German Institute for Economics Research (DIW Berlin) and the Humboldt University in Berlin. 
 
-I'm interested in Labor Economics and Behavioral Economics. 
+I am interested in Labor Economics and Behavioral Economics. 
